@@ -15,7 +15,7 @@ The sequencing itself was done on June 1st of 2014.
 * SSR_4483 - genitals
 
 ## Data
-For each sample are two FASTQ files, containing the forward/reverse reads of the sequencing run. Additionally the *_count.json files contain the bacteria counts as provided by _uBiome_ 
+For each sample are two FASTQ files, containing the forward/reverse reads of the sequencing run. Additionally the *count.json files contain the bacteria counts as provided by _uBiome_ 
 
 ## Licensing? 
 I highly doubt that I could make any claims on owning this data (at least this is how it should be). But still: Use it as [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/), which is somewhat equivalent of putting it into the public domain. 
